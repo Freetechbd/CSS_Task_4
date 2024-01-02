@@ -1,0 +1,43 @@
+* {
+  color: white;
+  background-color: darkslategrey;
+}
+
+.h2 {
+  width: 93%;
+  height: 100px;
+  padding: 20px;
+  color: aliceblue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-image: url(bc2.jpg);
+  background-size: cover;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px black;
+}
+
+.h3 {
+  background-color: rgb(219, 82, 82);
+  width: fit-content;
+  height: fit-content;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.span1 {
+  background-color: transparent;
+  font-size: 10px;
+  font-weight: normal;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.btn1 {
+  background-color: rgb(219, 82, 82);
+  border-radius: 50px;
+  display: block;
+  margin: auto;
+  border: none;
+  padding: 5px;
+}
